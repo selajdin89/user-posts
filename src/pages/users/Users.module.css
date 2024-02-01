@@ -1,0 +1,27 @@
+.container {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 100%;
+  display: flex;
+  gap: 40px;
+}
+
+.user {
+  text-align: center;
+}
+
+.postsContainer {
+  width: 35%;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  text-align: center;
+}
+
+.commentsContainer {
+  width: 20%;
+}
